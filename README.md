@@ -16,4 +16,4 @@ I have tested this software using the Leica iCON iCS50 machine.
   -  <Job Name>.inf
   -  <Job name>.irm
   -  <Job Name>.thumbnail
-    - This is actually just a PNG image. You can rename it to ".png" to view it.
+  -  - This is actually just a PNG image. You can rename it to ".png" to view it.
