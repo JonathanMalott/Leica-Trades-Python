@@ -12,8 +12,9 @@ I have tested this software using the Leica iCON iCS50 machine.
 - Within each job folder, there are the following items
   -  "Import" folder
   -  "LiveView" folder
-  -  "Panrama" folder
-  -  <Job Name>.inf
-  -  <Job name>.irm
-  -  <Job Name>.thumbnail
+  -  "Panorama" folder
+      - Contains panoramas from the project (if any were taken) in JPEG format.
+  -  JobName.inf
+  -  JobName.irm
+  -  JobName.thumbnail
       - This is actually just a PNG image. You can rename it to ".png" to view it.
